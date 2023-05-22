@@ -1,4 +1,4 @@
-name: gaurav
+name: Gaurav Dilip Sonawane 
 class: IT TE
 sub: WAD
 Dis: This is 1st repository
